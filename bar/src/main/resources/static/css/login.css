@@ -1,0 +1,31 @@
+body{
+    background: url("../pictures/fon.jpg");
+    background-size: cover;
+}
+
+.formLog{
+    margin: 0 auto;
+    background: white;
+    padding: 50px;
+    width: 400px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.formReg{
+    margin: 0 auto;
+    background: white;
+    padding: 50px;
+    width: 400px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.form-control{
+    margin: 10px;
+    width: 300px;
+}
+
+.context{
+    margin-top: 200px;
+}

@@ -1,0 +1,30 @@
+.sidenav{
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    background: white;
+}
+
+.main{
+    margin-left: 250px;
+    text-align: center;
+    background: cornflowerblue;
+    height: 100vh;
+    /* Same as the width of the sidenav */
+}
+
+
+ul{
+    margin: 0;
+}
+
+.sidenav a {
+    padding: 10px;
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+    margin: 0;
+}
